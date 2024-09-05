@@ -5,7 +5,7 @@ public class Login {
     private String username;
     private String password;
 
-    public Integer getUsername() {
+    public String getUsername() {
         return username;
     }
 
